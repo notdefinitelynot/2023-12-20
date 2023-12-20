@@ -23,10 +23,17 @@ class Ber:
                 szolnokLista.append(dolgozo)
         max_szolnoki = szolnokLista[0]
         for dolgozo in szolnokLista:
-            if dolgozo.szuletes > max_szolnoki:   
+            if dolgozo.szuletes > max_szolnoki.szuletes:   
                 max_szolnoki=dolgozo
         print(max_szolnoki.szuletes)
-            
+        
+    def hatvani_fizetes(self):
+        osszeg = 0
+        for dolgozo in self.dolgozoLista:
+            if dolgozo.telepules == "Hatvan":
+                osszeg = osszeg + int(dolgozo.fizetes)
+        print(f"hatvaniak fizetese: {osszeg}")        
+        
 
                 
                 
@@ -34,4 +41,5 @@ class Ber:
 ber = Ber()
 ber.fileread()
 ber.szolnoki()
+ber.hatvani_fizetes()
         
