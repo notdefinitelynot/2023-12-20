@@ -1,0 +1,43 @@
+Bodnár Béla:Szeged:Szentimrey u. 80:1989-10-17:330000
+Pintér György:Hatvan:Táltos u. 2:1973-02-23:40000
+Varga Tamás:Győr:Tatárvirág u. 45:1955-03-27:540000
+Gyenge Béla:Szeged:Debreceni park 76:1966-03-2:290000
+Budai Géza:Hatvan:Vágó u. 32:1957-06-24:210000
+Bodnár László:Miskolc:Mészáros József u. 67:1960-06-18:120000
+Fényes Zoltán:Budapest:Perec u. 34:1956-06-8:570000
+Takács György:Nyíregyháza:Bánya park 60:1976-11-8:90000
+Budai Dániel:Szeged:Bukarest u. 30:1974-07-16:730000
+Szalai Ferenc:Budapest:Halásztelek u. 9:1952-08-5:470000
+Fényes Lajos:Szeged:Szegvári u. 42:1989-10-27:140000
+Szabó Tamás:Miskolc:Dunapataj u. 18:1978-03-11:270000
+Rigó László:Győr:Vecsés út 77:1972-03-27:740000
+Nagy György:Győr:Bereck u. 54:1986-10-7:480000
+Fényes Tamás:Hatvan:Szellő u. 70:1956-09-7:470000
+Fényes Tibor:Hatvan:Köles u. 81:1978-01-22:690000
+Szabó Tamás:Budapest:Boros út 33:1966-10-6:410000
+Budai Tamás:Nyíregyháza:Varázs u. 53:1955-05-27:510000
+Fehér Gábor:Nyíregyháza:Lapátos u. 106:1967-03-13:300000
+Fényes Ferenc:Hatvan:Judit u. 88:1953-11-9:670000
+Fényes György:Miskolc:Lajta u. 48:1953-06-4:510000
+Szabó Lajos:Győr:Gerle u. 92:1978-05-23:710000
+Fekete Tibor:Miskolc:Ányos u. 1:1986-08-24:200000
+Almási Zoltán:Győr:Szeghalom u. 26:1952-02-26:650000
+Bodnár Zoltán:Nyíregyháza:Károlyi Sándor út 68:1954-03-4:390000
+Bakos Béla:Szolnok:Amfiteátrum u. 100:1985-05-25:730000
+Bíró Zoltán:Szolnok:Rév u. 1:1952-08-16:670000
+Vitéz László:Nyíregyháza:Mária hegy 53:1956-07-21:250000
+Illés Károly:Győr:Nóra u. 1:1972-01-20:40000
+Nagy Géza:Nyíregyháza:Szerb Antal u. 85:1989-03-14:50000
+Budai Géza:Hatvan:Nyárfás sor 113:1983-03-20:720000
+Bakos Béla:Szolnok:Babér u. 65:1978-10-22:790000
+Gyenge Károly:Hatvan:Keskeny u. 45:1951-01-7:230000
+Horváth Tibor:Miskolc:Vénusz u. 105:1964-09-5:220000
+Bodnár Tibor:Szolnok:Glück Frigyes út 110:1950-08-10:490000
+Mészáros Tibor:Hatvan:Szurdok u. 14:1980-01-24:260000
+Bakos György:Miskolc:Lívia u. 55:1988-06-14:370000
+Varga József:Szeged:Ivánka Pál u. 15:1965-05-5:90000
+Mészáros Tibor:Szolnok:Vadlúd u. 90:1958-01-20:670000
+Horváth Béla:Hatvan:Fűzfa köz 93:1981-07-17:60000
+Szántó László:Miskolc:Bakter u. 37:1967-06-6:310000
+Szántó László:Miskolc:Kléh István u. 118:1956-11-8:150000
+Kovács Tibor:Hatvan:Kosciuszkó Tádé u. 90:1964-03-9:220000
